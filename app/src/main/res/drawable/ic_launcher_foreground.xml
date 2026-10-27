@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícone do app: gota de chuva com sinal de alerta -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 C54,28 36,50 36,63 A18,18 0 0,0 72,63 C72,50 54,28 54,28 Z" />
+    <path
+        android:fillColor="#E8710A"
+        android:pathData="M51,48 L57,48 L56,66 L52,66 Z" />
+    <path
+        android:fillColor="#E8710A"
+        android:pathData="M54,70 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>
